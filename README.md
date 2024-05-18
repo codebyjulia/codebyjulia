@@ -6,6 +6,15 @@
 <br><br><br>
 <img align="right" src="https://i.ibb.co/yppMSwH/Github-bg.png" alt="Github-bg" border="0" align="right">
 
+<div align="center">
+<h2> #30NitesOfCode: </h2>
+</div>
+<p align="center">
+  <a href="https://www.codedex.io/@AyushMann29/30-nites-of-code">Check out my progress!</a>
+  <br>
+  <img src="https://www.codedex.io/api/petStatus?user=AyushMann29" alt="@AyushMann29 #30NitesOfCode">
+</p>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
