@@ -1,6 +1,6 @@
 ### ‧₊˚ ☁️ Olá, Seja bem-vindo ao meu GitHub! ⋅♡𓂃 ࣪ ִֶָ☾.
 
-<img src="https://media.discordapp.net/attachments/760622341007999017/1241213926570463252/7577e9a4672fa33bdd7e54206a3e1aec.jpg?ex=6649620c&is=6648108c&hm=cc42c71e6688cdd3d8a1576ebe49a551a3c997e22ae348e422584f6679ca7072&=&format=webp" width="100%">
+<img src="https://i.pinimg.com/564x/fc/b2/5d/fcb25d7a2447cd1bf75542adb8827ee9.jpg" width="100%">
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width = "60" height = "60">
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width = "60" height = "60">
