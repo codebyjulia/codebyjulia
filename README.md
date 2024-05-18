@@ -2,7 +2,7 @@
 
 <img src="https://media.discordapp.net/attachments/760622341007999017/1241215261571416135/fcb25d7a2447cd1bf75542adb8827ee9_1.jpg?ex=6649634b&is=664811cb&hm=fa274650d45d5ce1e5ffabd967880e8442a0a4724443178f1f5c28a208fd9d59&=&format=webp" width="100%">
 
-### About me (˶ᵔ ᵕ ᵔ˶) 🫧‧₊˚🎐‧₊˚🖇️˚🎧
+### About me (˶ᵔ ᵕ ᵔ˶) 🫧🎐🎧
 
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width = "60" height = "60">
