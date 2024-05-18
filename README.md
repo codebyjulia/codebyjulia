@@ -1,6 +1,6 @@
 ### ‧₊˚ ☁️ Olá, Seja bem-vindo ao meu GitHub! ⋅♡𓂃 ࣪ ִֶָ☾.
 
-<img src="https://media.discordapp.net/attachments/760622341007999017/1241215261571416135/fcb25d7a2447cd1bf75542adb8827ee9_1.jpg?ex=6649634b&is=664811cb&hm=fa274650d45d5ce1e5ffabd967880e8442a0a4724443178f1f5c28a208fd9d59&=&format=webp" width="100%">
+<img src="https://media.discordapp.net/attachments/760622341007999017/1241226345191706714/pixelcut-export.png?ex=66496d9d&is=66481c1d&hm=0b1cc5318dd50726f03faface4f2981dc9033cad34448d5293ea6a8d06f125c2&=&format=webp&quality=lossless&width=1199&height=671" width="100%">
 
 ### Sobre mim! ૮ ˶ᵔ ᵕ ᵔ˶ 𐙚 ა 🍡
 ⧣₊˚﹒✦₊  ⧣₊˚  𓂃★    ⸝⸝ ⧣₊˚﹒✦₊  ⧣₊˚<br>
