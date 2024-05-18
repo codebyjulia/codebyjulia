@@ -6,6 +6,13 @@
 <br><br><br>
 <img align="right" src="https://i.ibb.co/yppMSwH/Github-bg.png" alt="Github-bg" border="0" align="right">
 
+<p float="left">
+ <a  href="https://start.fedoraproject.org/"  target="blank"><img  align="center"  src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"  alt="Fedora" /></a>
+</p>
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@AyushMann29/30-nites-of-code)  
+  ![@AyushMann29 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=AyushMann29)
 <div align="center">
 <h2> #30NitesOfCode: </h2>
 </div>
