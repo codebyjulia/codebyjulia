@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width = "60" height = "60">
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width = "60" height = "60">
 <img align="right" alt="GIF" src="https://media.discordapp.net/attachments/760622341007999017/1241209139280089178/python.gif?ex=66495d97&is=66480c17&hm=486ced61dc137922dcc82eb12c9e664f7aff97f89b6df3553f647d8c2e62695b&=" width = "60" height = "60">
-<img align="right" alt="GIF" src="https://i.redd.it/vzkhe4s8dlab1.gif" width = "60" height = "60">
+<img align="right" alt="GIF" src="https://media.discordapp.net/attachments/760622341007999017/1241210515620106270/c-ezgif.com-crop.gif?ex=66495edf&is=66480d5f&hm=2d031124cc2460c47eec420deb81bd6a02c14e1147c9d3467c502b705725f8df&=&width=845&height=671" width = "60" height = "60">
 <br><br><br>
 
 - 🔭 I’m currently working on ...
