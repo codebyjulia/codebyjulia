@@ -9,7 +9,7 @@
 . .╭∪─∪────────── ✦ ⁺.<br>
 . .┊ ◟﹫ Nome : Júlia Raissa<br>
 . .┊﹒𐐪 Idade : 18 anos<br>
-. .┊ꜝꜝ﹒Hobbies : Jogar, assistir animes, gravar conteúdo de tecnologia e programação<br>
+. .┊ꜝꜝ﹒Hobbies : Jogar, assistir animes, gravar conteúdo de tecnologia, e programação<br>
 . .┊ ⨳゛Universidade : Universidade Tiradentes - UNIT<br>
 . .┊ ◟ヾ Graduação : Ciência da Computação<br>
 . .┊﹒𐐪 Por que escolheu seguir esse ramo? Amo computadores, desenvolver programas e lógica<br>
