@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width = "60" height = "60">
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width = "60" height = "60">
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width = "60" height = "60">
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=6c09b9522ifa5i1jy2n8d1bsx8eusxdyvdf10kzs1g0qn77q&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = "60" height = "60">
+<img align="right" alt="GIF" src="[https://media0.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=6c09b9522ifa5i1jy2n8d1bsx8eusxdyvdf10kzs1g0qn77q&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media.discordapp.net/attachments/760622341007999017/1241209139280089178/python.gif?ex=66495d97&is=66480c17&hm=486ced61dc137922dcc82eb12c9e664f7aff97f89b6df3553f647d8c2e62695b&=)" width = "60" height = "60">
 <br><br><br>
 
 - 🔭 I’m currently working on ...
