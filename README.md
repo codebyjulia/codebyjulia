@@ -18,7 +18,7 @@
 ⧣₊˚﹒✦₊  ⧣₊˚  𓂃★    ⸝⸝ ⧣₊˚﹒✦₊  ⧣₊˚<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebyjulia&theme=tokyonight)
-<img align="right" alt="GIF" src="https://media.discordapp.net/attachments/760622341007999017/1241222518640214036/8d3793707fde5d7dd2f43e232d26547d.gif?ex=66496a0d&is=6648188d&hm=5b8d7b70ee7c787bb3c5ffcabfd52e711c6ab17bd838406f1ee8da6f6d7a7e7d&=&width=631&height=671" width = "90%">
+<img align="right" alt="GIF" src="https://media.discordapp.net/attachments/760622341007999017/1241222518640214036/8d3793707fde5d7dd2f43e232d26547d.gif?ex=66496a0d&is=6648188d&hm=5b8d7b70ee7c787bb3c5ffcabfd52e711c6ab17bd838406f1ee8da6f6d7a7e7d&=&width=631&height=671" width = "40%">
 
 
 ### Linguagens 🫧🎐
