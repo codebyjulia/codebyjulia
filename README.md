@@ -7,13 +7,13 @@
       /)    /)<br>
     (｡•ㅅ•｡)〝₎₎ <br>
 . .╭∪─∪────────── ✦ ⁺.<br>
-. .┊ ◟﹫ Nome : Júlia Raissa.<br>
-. .┊﹒𐐪 Idade : 18 anos.<br>
-. .┊ꜝꜝ﹒Hobbies : Jogar, assistir animes, gravar conteúdo de tecnologia e programação.<br>
+. .┊ ◟﹫ Nome : Júlia Raissa<br>
+. .┊﹒𐐪 Idade : 18 anos<br>
+. .┊ꜝꜝ﹒Hobbies : Jogar, assistir animes, gravar conteúdo de tecnologia e programação<br>
 . .┊ ⨳゛Universidade : Universidade Tiradentes - UNIT<br>
 . .┊ ◟ヾ Graduação : Ciência da Computação<br>
-. .┊﹒𐐪 Por que escolheu seguir esse ramo? : Amo computadores desde minha infância, desenvolver programas e por lógica.<br>
-. .┊ ◟﹫ Bônus : Amo Sushi, Pets e jogar NieR Automata.<br>
+. .┊﹒𐐪 Por que escolheu seguir esse ramo? : Amo computadores desde minha infância, desenvolver programas e por lógica<br>
+. .┊ ◟﹫ Bônus : Amo Sushi, Pets e jogar NieR Automata<br>
    ╰─────────────  ✦ ⁺.<br>
 ⧣₊˚﹒✦₊  ⧣₊˚  𓂃★    ⸝⸝ ⧣₊˚﹒✦₊  ⧣₊˚<br>
 
