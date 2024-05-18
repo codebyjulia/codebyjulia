@@ -12,7 +12,7 @@
 . .┊ꜝꜝ﹒Hobbies : Jogar, assistir animes, gravar conteúdo de tecnologia e programação<br>
 . .┊ ⨳゛Universidade : Universidade Tiradentes - UNIT<br>
 . .┊ ◟ヾ Graduação : Ciência da Computação<br>
-. .┊﹒𐐪 Por que escolheu seguir esse ramo? : Amo computadores desde minha infância, desenvolver programas e por lógica<br>
+. .┊﹒𐐪 Por que escolheu seguir esse ramo? Amo computadores, desenvolver programas e lógica<br>
 . .┊ ◟﹫ Bônus : Amo Sushi<br>
    ╰─────────────  ✦ ⁺.<br>
 ⧣₊˚﹒✦₊  ⧣₊˚  𓂃★    ⸝⸝ ⧣₊˚﹒✦₊  ⧣₊˚<br>
