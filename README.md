@@ -1,6 +1,6 @@
 ### ‧₊˚ ☁️ Olá, Seja bem-vindo ao meu GitHub! ⋅♡𓂃 ࣪ ִֶָ☾.
 
-<img src="https://media.discordapp.net/attachments/760622341007999017/1241215261571416135/fcb25d7a2447cd1bf75542adb8827ee9_1.jpg?ex=6649634b&is=664811cb&hm=fa274650d45d5ce1e5ffabd967880e8442a0a4724443178f1f5c28a208fd9d59&=&format=webp">
+<img src="https://lotofsense.com/wp-content/uploads/2023/07/8aa252b243-870x400.png">
 
 ### Sobre mim! ૮ ˶ᵔ ᵕ ᵔ˶ 𐙚 ა 🍡
 ⧣₊˚﹒✦₊  ⧣₊˚  𓂃★    ⸝⸝ ⧣₊˚﹒✦₊  ⧣₊˚<br>
