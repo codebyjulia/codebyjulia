@@ -13,7 +13,7 @@
 . .┊ ⨳゛Universidade : Universidade Tiradentes - UNIT<br>
 . .┊ ◟ヾ Graduação : Ciência da Computação<br>
 . .┊﹒𐐪 Por que escolheu seguir esse ramo? Amo computadores, desenvolver programas e lógica<br>
-. .┊ ◟﹫ Bônus : Amo Sushi<br>
+. .┊ ◟﹫ Bônus : Amo Sushi e NieR Automata <br>
    ╰─────────────  ✦ ⁺.<br>
 ⧣₊˚﹒✦₊  ⧣₊˚  𓂃★    ⸝⸝ ⧣₊˚﹒✦₊  ⧣₊˚<br>
 
