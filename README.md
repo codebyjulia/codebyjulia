@@ -1,6 +1,6 @@
 ### ‧₊˚ ☁️ Olá, Seja bem-vindo ao meu GitHub! ⋅♡𓂃 ࣪ ִֶָ☾.
 
-<img src=https://elrefugiodelosincomprendidos.wordpress.com/wp-content/uploads/2013/01/serial-experiments-lain-ordenadores.jpg">
+<img src= "https://elrefugiodelosincomprendidos.wordpress.com/wp-content/uploads/2013/01/serial-experiments-lain-ordenadores.jpg">
 
 ### Sobre mim! ૮ ˶ᵔ ᵕ ᵔ˶ 𐙚 ა 🍡
 ⧣₊˚﹒✦₊  ⧣₊˚  𓂃★    ⸝⸝ ⧣₊˚﹒✦₊  ⧣₊˚<br>
