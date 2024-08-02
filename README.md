@@ -1,6 +1,6 @@
 ### ‧₊˚ ☁️ Olá, Seja bem-vindo ao meu GitHub! ⋅♡𓂃 ࣪ ִֶָ☾.
 
-<img src="https://lotofsense.com/wp-content/uploads/2023/07/8aa252b243-870x400.png">
+<img src=https://http2.mlstatic.com/D_NQ_NP_896987-MLB27696962236_072018-O.webp">
 
 ### Sobre mim! ૮ ˶ᵔ ᵕ ᵔ˶ 𐙚 ა 🍡
 ⧣₊˚﹒✦₊  ⧣₊˚  𓂃★    ⸝⸝ ⧣₊˚﹒✦₊  ⧣₊˚<br>
