@@ -1,9 +1,8 @@
-### ‧₊˚ ☁️ Olá, Seja bem-vindo ao meu GitHub! ⋅♡𓂃 ࣪ ִֶָ☾.
+### ‧₊˚ ☁️ Olá, Seja bem-vindo ao meu GitHub! ⋅♡𓂃 ࣪ ִֶָ
 
 <img src= "https://elrefugiodelosincomprendidos.wordpress.com/wp-content/uploads/2013/01/serial-experiments-lain-ordenadores.jpg">
 
-### Sobre mim! ૮ ˶ᵔ ᵕ ᵔ˶ 𐙚 ა 🍡
-⧣₊˚﹒✦₊  ⧣₊˚  𓂃★    ⸝⸝ ⧣₊˚﹒✦₊  ⧣₊˚<br>
+### Sobre mim! 
 . .╭∪─∪────────── ✦ ⁺.<br>
 . .┊ ◟﹫ Nome : Júlia Raissa<br>
 . .┊﹒𐐪 Idade : 18 anos<br>
@@ -17,7 +16,7 @@
 <img align="right" alt="GIF" src="https://media.discordapp.net/attachments/760622341007999017/1241222518640214036/8d3793707fde5d7dd2f43e232d26547d.gif?ex=66496a0d&is=6648188d&hm=5b8d7b70ee7c787bb3c5ffcabfd52e711c6ab17bd838406f1ee8da6f6d7a7e7d&=&width=631&height=671" width = "40%">
 
 
-### Linguagens 🫧🎐
+### Linguagens:
 
 <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width = "60" height = "60">
 <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width = "60" height = "60">
