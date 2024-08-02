@@ -7,12 +7,10 @@
 . .╭∪─∪────────── ✦ ⁺.<br>
 . .┊ ◟﹫ Nome : Júlia Raissa<br>
 . .┊﹒𐐪 Idade : 18 anos<br>
-. .┊ꜝꜝ﹒Hobbies : Jogar, assistir animes, gravar conteúdo de tecnologia, e programação<br>
 . .┊ ⨳゛Universidade : Universidade Tiradentes - UNIT<br>
 . .┊ ◟ヾ Graduação : Ciência da Computação<br>
 . .┊﹒𐐪 Por que escolheu seguir esse ramo? Amo computadores, desenvolver programas e lógica<br>
-. .┊ ◟﹫ Bônus : Amo Sushi e NieR Automata <br>
-   ╰─────────────  ✦ ⁺.<br>
+. . ╰─────────────  ✦ ⁺.<br>
 ⧣₊˚﹒✦₊  ⧣₊˚  𓂃★    ⸝⸝ ⧣₊˚﹒✦₊  ⧣₊˚<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebyjulia&theme=tokyonight)
