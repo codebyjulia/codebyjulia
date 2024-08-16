@@ -1,29 +1,36 @@
-### ‧₊˚ ☁️ Olá, Seja bem-vindo ao meu GitHub! ⋅♡𓂃 ࣪ ִֶָ
-
-<img src= "https://elrefugiodelosincomprendidos.wordpress.com/wp-content/uploads/2013/01/serial-experiments-lain-ordenadores.jpg">
-
-### Sobre mim! 
-. .╭∪─∪────────── ✦ ⁺.<br>
-. .┊ ◟﹫ Nome : Júlia Raissa<br>
-. .┊﹒𐐪 Idade : 18 anos<br>
-. .┊ ⨳゛Universidade : Universidade Tiradentes - UNIT<br>
-. .┊ ◟ヾ Graduação : Ciência da Computação<br>
-. .┊﹒𐐪 Por que escolheu seguir esse ramo? Amo computadores, desenvolver programas e lógica<br>
-. . ╰─────────────  ✦ ⁺.<br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebyjulia&theme=tokyonight)
-<img align="right" alt="GIF" src="https://media.discordapp.net/attachments/760622341007999017/1241222518640214036/8d3793707fde5d7dd2f43e232d26547d.gif?ex=66496a0d&is=6648188d&hm=5b8d7b70ee7c787bb3c5ffcabfd52e711c6ab17bd838406f1ee8da6f6d7a7e7d&=&width=631&height=671" width = "40%">
-
-
-### Linguagens:
-
-<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width = "60" height = "60">
-<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width = "60" height = "60">
-<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width = "60" height = "60">
-<img align="left" alt="GIF" src="https://media.discordapp.net/attachments/760622341007999017/1241209139280089178/python.gif?ex=66495d97&is=66480c17&hm=486ced61dc137922dcc82eb12c9e664f7aff97f89b6df3553f647d8c2e62695b&=" width = "60" height = "60">
-<img align="left" alt="GIF" src="https://media.discordapp.net/attachments/760622341007999017/1241210865307357204/c-ezgif.com-crop_1.gif?ex=66495f32&is=66480db2&hm=6802fc7be60c79832d4357f14f2500bda30ab35507b8a99bc7d6236916d29094&=" width = "60" height = "60">
-<br><br><br>
-
-
-
-
+<p float="left">
+ <img src="https://github.com/xssrae/xssrae/blob/main/side_imgs/img1.png" width="500" align="left">
+  <p float="left">
+    <samp>
+      :3 
+      <br>
+      <br>
+      about me:<br>
+             - she/her, brazilian, pt-br + eng + learning russian<br>
+             - computer science student<br>
+             - working as IT engineering intern.<br>
+             - cybersecurity researcher - malware analyst with focus on mobile threats.<br>
+      <br>
+      <br>
+      langs:<br>
+          > java, kotlin, python, c/c++, bash, powershell, assembly, golang, typescript.
+      <br>
+      <br>
+      os:<br>
+        > arch (main), win11 with 3 vms: remnux + win11 + android emulator.
+      <br>
+      <br>
+      tools:<br>
+          - <a href="https://remnux.org/">remnux</a> - malware analysis <br> 
+          - <a href="https://github.com/mandiant/flare-vm">flare-vm</a> - re best tools<br>
+          - <a href="https://www.genymotion.com/">genymotion</a> - android emulator <br>
+          - <a href="https://www.datadoghq.com/">datadog</a> - monitoring <br>
+          - <a href="https://obsidian.md/">obsidian</a> - notes taking<br> 
+     <br>
+     <br>
+      blog:<br>
+         <a href="https://raeversing.hashnode.dev/">Rae Labs</a>
+      <b>
+    </samp>
+  </p>
+</p>
