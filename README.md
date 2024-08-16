@@ -27,10 +27,7 @@
           - <a href="https://www.notion.so/">Notion</a> - for notes
      <br>
      <br>
-      blog:<br>
-         
-      <b>
-    </samp>
+      
   </p>
 </p>
 
