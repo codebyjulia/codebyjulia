@@ -1,5 +1,5 @@
 <p float="left">
- <img src="https://media.discordapp.net/attachments/760622341007999017/1273840871674220628/image.png?ex=66c01442&is=66bec2c2&hm=1be8edaa4e11178cfb6f6857c85b7d2a553be4090a856c8581cc82499d47b216&=&format=webp&quality=lossless&width=484&height=670" width="500" align="left">
+ <img src="https://i.pinimg.com/564x/4d/91/6d/4d916de87d0759f0c94bea5a9d7730bf.jpg" width="500" align="left">
   <p float="left">
     <samp>
       :3 
