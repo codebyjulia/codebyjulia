@@ -1,5 +1,6 @@
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://i.pinimg.com/736x/4f/f0/df/4ff0dfb62b3fc0ce693448b614218f09.jpg" style="margin-right: 20px;">
+  <img src="https://i.pinimg.com/736x/4f/f0/df/4ff0dfb62b3fc0ce693448b614218f09.jpg" width="500" align="left">
+<p float="left">
   <div>
     <p>:3</p>
     <p>about me:<br>
@@ -22,3 +23,5 @@
     </p>
   </div>
 </div>
+
+
