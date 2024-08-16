@@ -7,8 +7,7 @@
       <br>
       about me:<br>
              - she/her, brazilian, pt-br <br>
-             - age: 18 years old
-             
+             - age: 18 years old<br>
              - computer science student<br>
              - I am currently focusing on gaining experience in the field.<br>
              - I'm focused on front-end, so I'm working on the JavaScript language.<br>
