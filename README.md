@@ -1,5 +1,5 @@
 <p float="left">
- <img src="https://s5.ezgif.com/tmp/ezgif-5-413c550eb6.gif" width="500" align="left">
+ <img src="https://media.discordapp.net/attachments/760622341007999017/1277863517030060124/ezgif-frame-008.png?ex=66ceb6a4&is=66cd6524&hm=4ee1c94e0204b19f52e97c56ae5b86b01943e4aade82a401b7b43fdd9e9eb983&=&format=webp&quality=lossless&width=377&height=670" width="500" align="left">
   <p float="left">
     <samp>
       :3 
