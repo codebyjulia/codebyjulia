@@ -1,5 +1,5 @@
 <p float="left">
- <img src="https://media.discordapp.net/attachments/760622341007999017/1277863762572869706/Captura_de_tela_2024-08-27_023411.png?ex=66ceb6de&is=66cd655e&hm=ef2f25d02de5b56e25b8954d8ce26443ffcaba0da66fa2335c00312f1aa2a312&=&format=webp&quality=lossless" width="500" align="left">
+ <img src="https://images-ext-1.discordapp.net/external/Tx01wxrU4nSyTHj3ynllCu6GdGJu5qy6kA4jq56lREQ/https/s5.ezgif.com/tmp/ezgif-5-413c550eb6.gif?width=377&height=670" width="500" align="left">
   <p float="left">
     <samp>
       :3 
