@@ -1,6 +1,6 @@
 <p float="left">
+ <img src="https://assets.pinterest.com/ext/embed.html?id=951385490026837431" height="714" width="500" align="left">
 
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=951385490026837431" height="714" width="345" frameborder="0" scrolling="no"></iframe>
   <p float="left">
     <samp>
       :3 
