@@ -1,5 +1,5 @@
 <p float="left">
- <img src="https://i.pinimg.com/736x/a2/9b/06/a29b062c9589f9ac8fe7dec8cb398540.jpg" height="714" width="500" align="left">
+ <img src="git remote add origin" height="714" width="500" align="left">
 
   <p float="left">
     <samp>
