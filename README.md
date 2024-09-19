@@ -15,7 +15,7 @@
       <br>
       <br>
       langs:<br>
-          > JavaScript, Python and C++.
+          > JavaScript, React, Python and C++.
       <br>
       <br>
       os:<br>
