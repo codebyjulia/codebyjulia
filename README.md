@@ -1,19 +1,17 @@
 <p float="left">
- <img src="https://media.discordapp.net/attachments/760622341007999017/1294115284403224747/7b1b937039e441c0a2a63792fb0b1337.jpg?ex=6709d647&is=670884c7&hm=26e9c47221564d4b67c500c0daffd5cd4982f4799e3e82304fa657e9432910cb&=&format=webp&width=280&height=671">
+ <img src="https://i.pinimg.com/enabled_lo/564x/7b/1b/93/7b1b937039e441c0a2a63792fb0b1337.jpg" width="500" align="left">
   <p float="left">
     <samp>
       :3 
       <br>
       <br>
       about me:<br>
-             - she/her, brazilian, pt-br & english <br>
-             - age: 18 years old<br>
+             - she/her, brazilian, pt-br + eng + learning russian<br>
              - computer science student<br>
-             - I am currently focusing on gaining experience in the field.<br>
-             - I'm focused on front-end, so I'm working on the JavaScript language.<br>
+             - working as IT engineering intern.<br>
+             - cybersecurity researcher - malware analyst with focus on mobile threats & appsec.<br>
       <br>
       <br>
-      langs:<br>
           > JavaScript, React, Python and C++.
       <br>
       <br>
