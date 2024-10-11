@@ -19,7 +19,7 @@
       <br>
       <br>
       os:<br>
-        > Manjaro Linux & Windows 11.
+        >  Windows 11.
       <br>
       <br>
       tools:<br>
