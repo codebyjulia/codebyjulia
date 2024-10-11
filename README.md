@@ -12,6 +12,7 @@
              <br>
       <br>
       <br>
+     langs:<br>
           > JavaScript, React, Python and CSS.
       <br>
       <br>
