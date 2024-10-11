@@ -6,13 +6,13 @@
       <br>
       <br>
       about me:<br>
-             - she/her, brazilian, pt-br + eng + learning russian<br>
+             - she/her, brazilian, pt-br + eng <br>
              - computer science student<br>
-             - working as IT engineering intern.<br>
-             - cybersecurity researcher - malware analyst with focus on mobile threats & appsec.<br>
+             -  18 years old <br>
+             <br>
       <br>
       <br>
-          > JavaScript, React, Python and C++.
+          > JavaScript, React, Python and CSS.
       <br>
       <br>
       os:<br>
