@@ -1,5 +1,5 @@
 <p float="left">
- <img src="file:///E:/Usu%C3%A1rios/windows/Downloads/Captura%20de%20tela%202024-10-10%20220451.png" width="500" align="left">
+ <img src="https://media.discordapp.net/attachments/760622341007999017/1294103619133636688/Captura_de_tela_2024-10-10_220451.png?ex=6709cb6a&is=670879ea&hm=0c36717c25301874177aafe7dbcee71ce966bf4b163940c374ae954e8e66c4a4&=&format=webp&quality=lossless&width=390&height=671" width="500" align="left">
 
   <p float="left">
     <samp>
