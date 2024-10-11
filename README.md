@@ -7,7 +7,7 @@
       <br>
       <br>
       about me:<br>
-             - she/her, brazilian, pt-br <br>
+             - she/her, brazilian, pt-br & english <br>
              - age: 18 years old<br>
              - computer science student<br>
              - I am currently focusing on gaining experience in the field.<br>
