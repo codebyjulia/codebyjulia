@@ -9,9 +9,10 @@
              - she/her, brazilian, pt-br + eng <br>
              - computer science student<br>
              -  18 years old <br>
-             <br>
-<br>  langs:
-    
+             
+<br>
+      <br>
+      langs:<br>
           > JavaScript, React, Python and CSS.
       <br>
       <br>
