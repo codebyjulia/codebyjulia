@@ -1,5 +1,5 @@
 <p float="left">
- <img src="https://i.pinimg.com/736x/5c/66/2f/5c662f5c7b7270364b257fbaa76fc9ff.jpg" width="500" align="left">
+ <img src="file:///E:/Usu%C3%A1rios/windows/Downloads/Captura%20de%20tela%202024-10-10%20220451.png" width="500" align="left">
 
   <p float="left">
     <samp>
