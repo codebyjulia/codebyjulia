@@ -10,9 +10,8 @@
              - computer science student<br>
              -  18 years old <br>
              <br>
-      <br>
-      <br>
-     langs:<br>
+<br>  langs:
+    
           > JavaScript, React, Python and CSS.
       <br>
       <br>
