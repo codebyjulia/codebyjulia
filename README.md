@@ -8,7 +8,7 @@
       about me:<br>
              - she/her, brazilian, pt-br + eng <br>
              - computer science student<br>
-             -  18 years old <br>
+             -  19 years old <br>
              
 <br>
       <br>
