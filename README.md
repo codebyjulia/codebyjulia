@@ -25,8 +25,7 @@
         - <a href="https://www.figma.com/">Figma</a> - for design<br>
         - <a href="https://www.notion.so/">Notion</a> - for notes
           
-     <br>
-     <br>
+     
       
   </p>
 </p>
