@@ -21,10 +21,10 @@
       <br>
       <br>
       tools:<br>
-          - <a href="https://code.visualstudio.com">VSCode</a> - to code<br>
-          - <a href="https://trello.com/">Trello</a> - to organize<br>
-          - <a href="https://www.figma.com/">Figma</a> - for design<br>
-          - <a href="https://www.notion.so/">Notion</a> - for notes
+        - <a href="https://code.visualstudio.com">VSCode</a> - to code<br>
+        - <a href="https://www.figma.com/">Figma</a> - for design<br>
+        - <a href="https://www.notion.so/">Notion</a> - for notes
+          
      <br>
      <br>
       
