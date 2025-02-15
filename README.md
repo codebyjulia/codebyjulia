@@ -13,7 +13,7 @@
 <br>
       <br>
       langs:<br>
-          > JavaScript, React, Python and CSS.
+          > JavaScript, Python and Java.
       <br>
       <br>
       os:<br>
