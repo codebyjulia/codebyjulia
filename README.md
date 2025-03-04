@@ -15,6 +15,7 @@
              - estudante de ciência da computação <br>
              - 19 anos <br>
              - amo computadores, lógica e jogos
+     <br>
 <br>
       <br>
       💬 linguagens:<br>
