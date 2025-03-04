@@ -10,9 +10,9 @@
       <br>
       <br>
       about me:<br>
-             - brasileira, pt-br + eng <br>
+             - pt-br + eng <br>
              - estudante de ciência da computação <br>
-             -  19 anos <br>
+             - 19 anos <br>
              
 <br>
       <br>
