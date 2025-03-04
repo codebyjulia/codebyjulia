@@ -1,6 +1,6 @@
 <p float="left">
+<h1>Conheça mais sobre Júlia ✨</h1>
 
-<h1>Olá👋, Saiba mais sobre Júlia abaixo: </h1>
 <p></p>
  
  <img src="https://i.pinimg.com/736x/66/66/70/66667074afde63636a82d302cf805f15.jpg" width="500" align="left">
@@ -33,7 +33,9 @@
       
   </p>
 </p>
-<h1>Conheça mais sobre Júlia ✨</h1>
+<br>
+<br>
+
 <p></p>
 <h2> Linguagens 💻</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
