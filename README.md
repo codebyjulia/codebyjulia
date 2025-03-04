@@ -1,9 +1,9 @@
 <p float="left">
-<h1>✨ Conheça mais sobre Júlia</h1>
+<h1>✨ Conheça mais sobre Júlia!</h1>
 
 <p></p>
  
- <img src="https://i.pinimg.com/736x/66/66/70/66667074afde63636a82d302cf805f15.jpg" width="500" align="left">
+ <img src="https://i.pinimg.com/originals/e1/60/f8/e160f82b9fbb49d2d36ee61d1e3a46e0.gif" width="500" align="left">
   <p float="left">
     <samp>
       :3 
@@ -24,7 +24,7 @@
         >  Windows 11.
       <br>
       <br>
-     🛠️​ ferramentas:<br>
+     📑​​ ferramentas:<br>
         - <a href="https://code.visualstudio.com">VSCode</a> - IDE <br>
         - <a href="https://www.jetbrains.com/pt-br/idea/">IntelliJ</a> - IDE <br>
         - <a href="https://www.figma.com/">Figma</a> - para design<br>
