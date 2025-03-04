@@ -1,5 +1,5 @@
 <p float="left">
-<h1>Conheça mais sobre Júlia ✨</h1>
+<h1>✨ Conheça mais sobre Júlia</h1>
 
 <p></p>
  
@@ -9,22 +9,22 @@
       :3 
       <br>
       <br>
-      sobre mim:<br>
+      🍥 sobre mim: <br>
              - pt-br + eng <br>
              - estudante de ciência da computação <br>
              - 19 anos <br>
              - amo computadores, lógica e jogos
 <br>
       <br>
-      linguagens:<br>
+      💬 linguagens:<br>
           > JavaScript, Python, C e Java.
       <br>
       <br>
-      os:<br>
+      ⌨️​ os:<br>
         >  Windows 11.
       <br>
       <br>
-      tools:<br>
+     🛠️​ ferramentas:<br>
         - <a href="https://code.visualstudio.com">VSCode</a> - IDE <br>
         - <a href="https://www.jetbrains.com/pt-br/idea/">IntelliJ</a> - IDE <br>
         - <a href="https://www.figma.com/">Figma</a> - para design<br>
@@ -37,7 +37,7 @@
 <br>
 <br>
 <br>
-<h2> Linguagens 💻</h2>
+<h2>💻 Linguagens </h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -54,10 +54,13 @@
 <h2> Onde me encontrar 🌐</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/juliaraissa" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/juliaraiissa" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=codebyjulia&show_icons=true&locale=en" alt="codebyjulia" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebyjulia&" alt="codebyjulia" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=codebyjulia&show_icons=true&locale=en&layout=compact" alt="codebyjulia" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codebyjulia" alt="codebyjulia" /></a></p>
+# 📊 GitHub Status:
+![](https://github-readme-stats.vercel.app/api?username=codebyjulia&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=codebyjulia&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codebyjulia&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
