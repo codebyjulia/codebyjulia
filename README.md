@@ -54,10 +54,17 @@
 <h2> Onde me encontrar 🌐</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/juliaraissa" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/juliaraiissa" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+
 # 📊 GitHub Status:
+
 ![](https://github-readme-stats.vercel.app/api?username=codebyjulia&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=codebyjulia&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codebyjulia&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=codebyjulia&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
