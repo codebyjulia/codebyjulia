@@ -10,14 +10,14 @@
       <br>
       <br>
       about me:<br>
-             - she/her, brazilian, pt-br + eng <br>
-             - computer science student<br>
-             -  19 years old <br>
+             - brasileira, pt-br + eng <br>
+             - estudante de ciência da computação <br>
+             -  19 anos <br>
              
 <br>
       <br>
-      langs:<br>
-          > JavaScript, Python and Java.
+      linguagens:<br>
+          > JavaScript, Python, C e Java.
       <br>
       <br>
       os:<br>
@@ -25,9 +25,10 @@
       <br>
       <br>
       tools:<br>
-        - <a href="https://code.visualstudio.com">VSCode</a> - to code<br>
-        - <a href="https://www.figma.com/">Figma</a> - for design<br>
-        - <a href="https://www.notion.so/">Notion</a> - for notes
+        - <a href="https://code.visualstudio.com">VSCode</a> - IDE <br>
+        <a href="https://www.jetbrains.com/pt-br/idea/">IntelliJ </a> - IDE <br>
+        - <a href="https://www.figma.com/">Figma</a> - para design<br>
+        - <a href="https://www.notion.so/">Notion</a> - para notas
           
      
       
