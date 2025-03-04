@@ -24,7 +24,7 @@
           
    📑​​ ferramentas:<br>
      
-  <div style="display: inline-block;">
+  <div style="display: flex;">
    <p>></p>
    <p>
    <a target="_blank" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" style="display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="notion" width="32" height="32" /></a>
