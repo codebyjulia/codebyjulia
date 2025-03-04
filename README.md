@@ -17,6 +17,8 @@
      <br>
      <br>
      <br>
+     <br>
+     <P>
       💬 linguagens:<br>
           > JavaScript, Python, C e Java.
       <br>
@@ -34,7 +36,7 @@
      
       
   </p>
-</p>
+
 <br>
 <br>
 <br>
