@@ -12,9 +12,9 @@
              > pt-br + eng <br>
              > estudante de ciência da computação <br>
              > 19 anos <br>
-             > Em busca de meu primeiro estágio
-             > Em busca de conhecer pessoas da área e trocar conhecimento
-             > gosto de jogos, animes e astronomia
+             > Em busca de meu primeiro estágio <br>
+             > Em busca de conhecer pessoas da área e trocar conhecimento <br>
+             > gosto de jogos, animes e astronomia <br>
      <br>
      <p>
       <br>
