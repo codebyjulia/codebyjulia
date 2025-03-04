@@ -1,7 +1,5 @@
 <p float="left">
 <h1>✨ Conheça mais sobre Júlia!</h1>
-
-<p></p>
  
  <img src="https://i.pinimg.com/736x/32/84/2d/32842d915ff7eb5802b80d635735965a.jpg" width="500" align="left"><br>
   <p float="left">
@@ -16,8 +14,9 @@
              - 19 anos <br>
              - amo computadores, lógica e jogos
      <br>
-<br>
-      <br>
+     <br>
+     <br>
+     <br>
       💬 linguagens:<br>
           > JavaScript, Python, C e Java.
       <br>
