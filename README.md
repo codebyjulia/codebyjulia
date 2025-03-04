@@ -13,7 +13,7 @@
              > estudante de ciência da computação <br>
              > 19 anos <br>
              > em busca de conhecer pessoas da área e trocar conhecimento <br>
-             > gosto de jogos, animes e astronomia <br>
+             > gosto de jogos, animes, tecnologia e astronomia <br>
      <br>
      <p>
       <br>
