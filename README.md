@@ -15,8 +15,6 @@
              > amo computadores, lógica e jogos
      <br>
      <p>
-      💬 linguagens:<br>
-          > JavaScript, Python, C e Java.
       <br>
       <br>
       ⌨️​ os:<br>
@@ -28,11 +26,9 @@
         > <a href="https://www.jetbrains.com/pt-br/idea/">IntelliJ</a> - IDE <br>
         > <a href="https://www.figma.com/">Figma</a> - para design<br>
         > <a href="https://www.notion.so/">Notion</a> - para notas
-          
-     
-      
+              
   </p>
-
+<br>
 <br>
 <br>
 <br>
