@@ -9,11 +9,11 @@
       :3 
       <br>
       <br>
-      about me:<br>
+      sobre mim:<br>
              - pt-br + eng <br>
              - estudante de ciência da computação <br>
              - 19 anos <br>
-             
+             - amo computadores, lógica e jogos
 <br>
       <br>
       linguagens:<br>
