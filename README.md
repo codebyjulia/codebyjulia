@@ -9,16 +9,12 @@
       <br>
       <br>
       🍥 sobre mim: <br>
-             - pt-br + eng <br>
-             - estudante de ciência da computação <br>
-             - 19 anos <br>
-             - amo computadores, lógica e jogos
+             > pt-br + eng <br>
+             > estudante de ciência da computação <br>
+             > 19 anos <br>
+             > amo computadores, lógica e jogos
      <br>
-     <br>
-     <br>
-     <br>
-     <br>
-     <P>
+     <p>
       💬 linguagens:<br>
           > JavaScript, Python, C e Java.
       <br>
@@ -28,10 +24,10 @@
       <br>
       <br>
      📑​​ ferramentas:<br>
-        - <a href="https://code.visualstudio.com">VSCode</a> - IDE <br>
-        - <a href="https://www.jetbrains.com/pt-br/idea/">IntelliJ</a> - IDE <br>
-        - <a href="https://www.figma.com/">Figma</a> - para design<br>
-        - <a href="https://www.notion.so/">Notion</a> - para notas
+        > <a href="https://code.visualstudio.com">VSCode</a> - IDE <br>
+        > <a href="https://www.jetbrains.com/pt-br/idea/">IntelliJ</a> - IDE <br>
+        > <a href="https://www.figma.com/">Figma</a> - para design<br>
+        > <a href="https://www.notion.so/">Notion</a> - para notas
           
      
       
