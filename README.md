@@ -1,5 +1,5 @@
 <p float="left">
-<h1>✨ Conheça mais sobre Júlia!</h1>
+<h1>🍥 Conheça mais sobre Júlia!</h1>
  
  <img src="https://i.pinimg.com/736x/32/84/2d/32842d915ff7eb5802b80d635735965a.jpg" width="500" align="left"><br>
   <p float="left">
@@ -8,7 +8,7 @@
       :3 
       <br>
       <br>
-      🍥 sobre mim: <br>
+      ✨ sobre mim: <br>
              > pt-br + eng <br>
              > estudante de ciência da computação <br>
              > 19 anos <br>
@@ -47,6 +47,8 @@
       <a target="_blank" href="https://www.instagram.com/juliaraiissa" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
    </p>
 </p>
+<br>
+<br>
 <br>
 <br>
 <br>
