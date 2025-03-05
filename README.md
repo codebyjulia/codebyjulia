@@ -1,7 +1,7 @@
 <p float="left">
 <h1>🍥 Conheça mais sobre Júlia!</h1>
  
- <img src="https://i.pinimg.com/736x/ec/52/7b/ec527bd3b1921795a858f8e55101f874.jpg" width="500" align="left"><br>
+ <img src="https://i.pinimg.com/736x/ef/b2/96/efb2967cc68df9998ce0406278de5f6a.jpg" width="500" align="left"><br>
   <p float="left">
    <br>
     <samp>
