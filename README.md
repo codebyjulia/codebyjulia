@@ -17,8 +17,11 @@
      <br>
      <p>
       <br>
+      <br>
+      <br>
       ⌨️​ os:<br>
             >  Windows 11.
+      <br>
       <br>
       <br>
       <br>
@@ -41,6 +44,9 @@
          <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32" /></a>
          <a target="_blank" href="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="32" height="32" /></a>
      </p>
+     <br>
+     <br>
+     <br>
 
    🌐 onde me encontrar:
    <p>
