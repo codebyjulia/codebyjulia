@@ -12,10 +12,8 @@
              > pt-br + eng <br>
              > estudante de ciência da computação <br>
              > 20 anos <br>
-             
-     <br>
      <p>
-      <br>
+      <br> 
       <br>
       <br>
       ⌨️​ os:<br>
@@ -24,6 +22,8 @@
       <br>
       <br>
       <br>
+             
+    
           
    📑​​ ferramentas:<br>
      
