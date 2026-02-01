@@ -11,8 +11,8 @@
       ✨ sobre mim: <br>
              > pt-br + eng <br>
              > estudante de ciência da computação <br>
-             > 19 anos <br>
-             > gosto de jogos, animes, tecnologia e astronomia <br>
+             > 20 anos <br>
+             
      <br>
      <p>
       <br>
