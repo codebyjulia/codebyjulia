@@ -1,11 +1,11 @@
 <p float="left">
-<h1>👩‍💻 Olá! Eu sou a Júlia!</h1>
+<h1>👋 Olá! Eu sou a Júlia!</h1>
 <img src="https://i.pinimg.com/1200x/23/53/6a/23536ac959c26f617737956ae1e5108b.jpg" width="500" align="left"><br>
 <p float="left">
 <br><br><br><br><br>
 <samp>
 :3 <br>
-Estudante de Ciência da Computação apaixonada por tecnologia e que ama aprender coisas novas todos os dias! 🚀
+👩‍💻 Estudante de Ciência da Computação apaixonada por tecnologia e que ama aprender coisas novas todos os dias! 🚀
 <br><br><br>
 💻 os:<br>
 > Windows 11 <br>
