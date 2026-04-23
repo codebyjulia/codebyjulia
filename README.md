@@ -1,21 +1,21 @@
 <div align="center">
 <table>
 <tr>
-<td valign="top">
+<td valign="top" width="280">
 
-<img src="https://i.pinimg.com/1200x/23/53/6a/23536ac959c26f617737956ae1e5108b.jpg" width="220" />
+<img src="https://i.pinimg.com/1200x/23/53/6a/23536ac959c26f617737956ae1e5108b.jpg" width="280" />
 
 </td>
 <td valign="top">
 
 ## 👩‍💻 Olá! Eu sou a Júlia
 
-> Estudante de Ciência da Computação apaixonada por tecnologia, código e aprendizado contínuo. Sempre explorando novas ferramentas e construindo projetos que unem lógica e criatividade. 🚀
+> Estudante de Ciência da Computação apaixonada por tecnologia e que ama aprender coisas novas todos os dias! 🚀
 
 💻 **os:**
 
+> Windows 11 </br>
 > Linux
-> Windows 11
 
 ⚡ **stacks:**
 
