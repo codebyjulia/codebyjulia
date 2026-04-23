@@ -6,7 +6,7 @@
 <samp>
 :3 <br>
 Estudante de Ciência da Computação apaixonada por tecnologia e que ama aprender coisas novas todos os dias! 🚀
-<br><br>
+<br><br><br>
 💻 os:<br>
 > Windows 11 <br>
 > Linux <br>
