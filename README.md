@@ -1,5 +1,6 @@
 <p float="left">
 <h1>👩‍💻 Olá! Eu sou a Júlia!</h1>
+  Estudante de Ciência da Computação apaixonada por tecnologia e que ama aprender coisas novas todos os dias! 🚀
 <img src="https://i.pinimg.com/1200x/23/53/6a/23536ac959c26f617737956ae1e5108b.jpg" width="500" align="left"><br>
 <p float="left">
 <br>
@@ -7,8 +8,8 @@
 :3
 <br><br>
 💻 os:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; > Windows 11 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; > Linux <br>
+> Windows 11 <br>
+> Linux <br>
 <br><br>
 ⚡ stacks:<br><br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -20,7 +21,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <br><br>
-Estudante de Ciência da Computação apaixonada por tecnologia e que ama aprender coisas novas todos os dias! 🚀
 </samp>
 </p>
 </p>
