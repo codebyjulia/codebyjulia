@@ -20,12 +20,10 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<br><br>
+<br><br><br>
+<a href="https://github.com/codebyjulia">
+  <img src="https://github-readme-stats.vercel.app/api?username=codebyjulia&show_icons=true&bg_color=1A1B27&title_color=F5428D&icon_color=F5428D&text_color=FFFFFF&border_color=F5428D&hide_border=false" height="150" alt="Estatísticas do GitHub" />
+</a>
 </samp>
-  <div align="center">
-  <a href="https://github.com/SEU_USUARIO_AQUI">
-    <img src="https://github-readme-stats.vercel.app/api?username=codebyjulia&show_icons=true&bg_color=1A1B27&title_color=F5428D&icon_color=F5428D&text_color=FFFFFF&border_color=F5428D&hide_border=false" height="150" alt="Estatísticas do GitHub" />
-  </a>
-</div>
 </p>
 </p>
