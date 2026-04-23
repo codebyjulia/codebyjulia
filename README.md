@@ -4,7 +4,7 @@
 <p float="left">
 <br><br><br><br><br>
 <samp>
-:3
+:3 <br>
 Estudante de Ciência da Computação apaixonada por tecnologia e que ama aprender coisas novas todos os dias! 🚀
 <br><br>
 💻 os:<br>
