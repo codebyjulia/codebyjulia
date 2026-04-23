@@ -1,7 +1,7 @@
 <div align="center">
 <table>
 <tr>
-<td valign="top" width="280">
+<td valign="top" width="500">
 
 <img src="https://i.pinimg.com/1200x/23/53/6a/23536ac959c26f617737956ae1e5108b.jpg" width="280" />
 
