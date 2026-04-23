@@ -22,5 +22,13 @@
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <br><br>
 </samp>
+  div align="center">
+  <a href="https://github.com/SEU_USUARIO_AQUI">
+    <img src="https://github-readme-stats.vercel.app/api?username=codebyjulia&show_icons=true&bg_color=1A1B27&title_color=F5428D&icon_color=F5428D&text_color=FFFFFF&border_color=F5428D&hide_border=false" height="150" alt="Estatísticas do GitHub" />
+  </a>
+  <a href="https://github.com/codebyjulia">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyjulia&layout=compact&bg_color=1A1B27&title_color=F5428D&text_color=FFFFFF&border_color=F5428D&hide_border=false" height="150" alt="Linguagens mais usadas" />
+  </a>
+</div>
 </p>
 </p>
