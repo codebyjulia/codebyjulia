@@ -18,8 +18,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header" width="100%"/>
 
-### <img src="https://api.iconify.design/pixelarticons/coffee.svg?color=%23C1A87D" width="20"/> Sobre mim
-
 <div align="center">
 <img src="sobre-mim.svg" alt="sobre-mim.yaml" width="100%" style="max-width:700px;" />
 </div>
@@ -30,9 +28,8 @@ Sou apaixonada por transformar ideias em interfaces bonitas e intuitivas. Passei
 
 - 🔭 Construindo e documentando projetos no meu **[Portfólio](https://juliaraissadev.vercel.app)**
 - 🌱 Aprofundando front-end, UI/UX e boas práticas de desenvolvimento
-- 🤝 Presente na comunidade tech através da **Sociedade Brasileira de Computação**
-- 🎟️ Vivendo eventos e imersões como **CSBC 2025**, **Campus Party Aracaju** e **Circuito Tecnológico**
-- 💬 Sempre disponível para estágios, colaborações e novos desafios
+- 🤝 Presente na comunidade tech através de eventos e contribuições
+- 💬 Disponível para estágios, colaborações e novos desafios
 
 <br>
 
@@ -53,7 +50,7 @@ Sou apaixonada por transformar ideias em interfaces bonitas e intuitivas. Passei
 ### <img src="https://api.iconify.design/pixelarticons/book-open.svg?color=%23C1A87D" width="20"/> Estatísticas
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=codebyjulia&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=4E3629&icon_color=C1A87D&text_color=6B5844&bg_color=00000000&ring_color=C1A87D" alt="Estatísticas do GitHub" />
+  
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyjulia&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=4E3629&text_color=6B5844&bg_color=00000000" alt="Linguagens mais usadas" />
 </div>
 
