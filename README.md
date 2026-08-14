@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4E3629,50:C1A87D,100:E6D2B5&height=220&section=header&text=Ju%CC%81lia%20Raissa&fontSize=38&fontColor=FFF8F0&fontAlignY=38&desc=Front-end%20Developer&descAlignY=58&descColor=F5E9D3&animation=fadeIn" width="100%" alt="Header" />
 
-<a href="https://juliaraissadev.vercel.app" target="_blank">
+
 
 </a>
 
