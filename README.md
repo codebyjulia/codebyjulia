@@ -19,7 +19,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header" width="100%"/>
 
 <div align="center">
-<img src="<img width="755" height="225" alt="Captura de tela 2026-08-14 022136" src="https://github.com/user-attachments/assets/dfb8185a-c64a-4932-a710-d8fe9dd47dcd"/>
+<img src="https://github.com/user-attachments/assets/dfb8185a-c64a-4932-a710-d8fe9dd47dcd" alt="destaques" width="100%" style="max-width:700px;" />
 </div>
 
 <br>
