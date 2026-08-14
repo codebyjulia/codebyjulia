@@ -18,13 +18,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header" width="100%"/>
 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/dfb8185a-c64a-4932-a710-d8fe9dd47dcd" alt="destaques" width="100%" style="max-width:700px;" />
-</div>
 
 <br>
-
-Sou apaixonada por transformar ideias em interfaces bonitas e intuitivas. Passei por front-end, back-end, dados e cibersegurança até perceber que o que mais me move é **dar vida às ideias através do front-end**.
 
 - 🔭 Construindo e documentando projetos no meu **[Portfólio](https://juliaraissadev.vercel.app)**
 - 🌱 Aprofundando front-end, UI/UX e boas práticas de desenvolvimento
