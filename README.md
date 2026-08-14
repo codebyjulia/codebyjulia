@@ -1,5 +1,4 @@
-![Header Animada](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=#0f172a,#10b981&height=200&section=header)
-
+![Header Animada](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=#18181b,#4ade80&height=200&section=header)
 
 
 
