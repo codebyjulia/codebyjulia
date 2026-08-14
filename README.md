@@ -1,10 +1,10 @@
 <div align="center">
-![Header do GitHub](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1A2B3C,00e6e6,0099ff&height=200&section=header)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0284c7,06b6d4&height=200&section=header" width="100%" alt="Header Animada" />
 </div>
 
 <div align="center">
   <a href="https://juliaraissadev.vercel.app" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+a+J%C3%BAlia+Raissa!+%F0%9F%91%8B;Desenvolvedora;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=06b6d4&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+a+J%C3%BAlia+Raissa!+%F0%9F%91%8B;Desenvolvedora;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -35,8 +35,8 @@ Sou apaixonada por tecnologia, aprimorando meus conhecimentos através da **Univ
 
 <div align="center">
   <a href="https://github.com/codebyjulia">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codebyjulia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyjulia&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codebyjulia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyjulia&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
   </a>
 </div>
 
@@ -49,11 +49,11 @@ Sou apaixonada por tecnologia, aprimorando meus conhecimentos através da **Univ
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn" />
   </a>
   <a href="https://juliaraissadev.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" alt="Site Pessoal" />
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" alt="Site Pessoal" />
   </a>
 </div>
 
 <div align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=codebyjulia&color=ffffff&style=flat-square&label=VISITAS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=codebyjulia&color=06b6d4&style=flat-square&label=VISITAS" alt="Profile Views" />
 </div>
