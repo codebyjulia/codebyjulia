@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img src="https://api.iconify.design/pixelarticons/notebook.svg?color=%23C1A87D" width="30" alt="notebook" />&nbsp;&nbsp;&nbsp;
+<img src="https://api.iconify.design/pixelarticons/laptop.svg?color=%23C1A87D" width="30" alt="laptop" />&nbsp;&nbsp;&nbsp;
 <img src="https://api.iconify.design/pixelarticons/coffee.svg?color=%23C1A87D" width="30" alt="café" />&nbsp;&nbsp;&nbsp;
 <img src="https://api.iconify.design/pixelarticons/book-open.svg?color=%23C1A87D" width="30" alt="livro" />
 
