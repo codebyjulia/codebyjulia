@@ -49,10 +49,6 @@ Sou apaixonada por transformar ideias em interfaces bonitas e intuitivas. Passei
 
 ### <img src="https://api.iconify.design/pixelarticons/book-open.svg?color=%23C1A87D" width="20"/> Estatísticas
 
-<div align="center">
-  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyjulia&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=4E3629&text_color=6B5844&bg_color=00000000" alt="Linguagens mais usadas" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebyjulia&hide_border=true&background=00000000&ring=C1A87D&fire=4E3629&currStreakLabel=4E3629&sideLabels=6B5844&currStreakNum=4E3629&sideNums=4E3629&dates=B49A73" alt="Streak stats" />
