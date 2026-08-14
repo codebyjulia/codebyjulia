@@ -18,20 +18,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header" width="100%"/>
 
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="170" viewBox="0 0 760 170">
-  <rect x="0" y="0" width="760" height="170" rx="12" fill="#F5E9D3"/>
-  <rect x="0" y="0" width="760" height="34" rx="12" fill="#C1A87D"/>
-  <rect x="0" y="22" width="760" height="12" fill="#C1A87D"/>
-  <circle cx="22" cy="17" r="6" fill="#4E3629"/>
-  <circle cx="42" cy="17" r="6" fill="#8B6F47"/>
-  <circle cx="62" cy="17" r="6" fill="#E6D2B5"/>
-  <text x="380" y="22" font-family="'Fira Code', 'Courier New', monospace" font-size="13" fill="#4E3629" text-anchor="middle">sobre-mim.yaml</text>
-
-  <text x="24" y="62" font-family="'Fira Code', 'Courier New', monospace" font-size="14" fill="#8B5E34">nome:<tspan fill="#4E3629" dx="6">Júlia Raissa</tspan></text>
-  <text x="24" y="90" font-family="'Fira Code', 'Courier New', monospace" font-size="14" fill="#8B5E34">formação:<tspan fill="#4E3629" dx="6">Ciência da Computação — Universidade Tiradentes (UNIT) &amp; UNIFACS</tspan></text>
-  <text x="24" y="118" font-family="'Fira Code', 'Courier New', monospace" font-size="14" fill="#8B5E34">foco:<tspan fill="#4E3629" dx="6">Front-end · UI/UX</tspan></text>
-  <text x="24" y="146" font-family="'Fira Code', 'Courier New', monospace" font-size="14" fill="#8B5E34">movida_a:<tspan fill="#4E3629" dx="6">café e curiosidade</tspan></text>
-</svg>
+### <img src="https://api.iconify.design/pixelarticons/coffee.svg?color=%23C1A87D" width="20"/> Sobre mim
 
 <div align="center">
 <img src="sobre-mim.svg" alt="sobre-mim.yaml" width="100%" style="max-width:700px;" />
