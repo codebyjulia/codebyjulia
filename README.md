@@ -31,9 +31,8 @@ Sou apaixonada por transformar ideias em interfaces bonitas e intuitivas. Passei
 
 - 🔭 Construindo e documentando projetos no meu **[Portfólio](https://juliaraissadev.vercel.app)**
 - 🌱 Aprofundando front-end, UI/UX e boas práticas de desenvolvimento
-- 🤝 Presente na comunidade tech através da **Sociedade Brasileira de Computação**
-- 🎟️ Vivendo eventos e imersões como **CSBC 2025**, **Campus Party Aracaju** e **Circuito Tecnológico**
-- 💬 Sempre disponível para estágios, colaborações e novos desafios
+- 🤝 Presente na comunidade tech através de eventos e colaborações
+- 💬 Disponível para estágios, colaborações e novos desafios
 
 <br>
 
