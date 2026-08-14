@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=D5BDAF,E3D5CA&height=200&section=header" width="100%" alt="Header Animada" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=D5BDAF,EAE0D5,D5BDAF&height=200&section=header" width="100%" alt="Header do GitHub em Bege" />
 </div>
 
 <div align="center">
@@ -35,8 +35,8 @@ Sou apaixonada por tecnologia, aprimorando meus conhecimentos através da **Univ
 
 <div align="center">
   <a href="https://github.com/codebyjulia">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codebyjulia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=D5BDAF&icon_color=D5BDAF" alt="Estatísticas do GitHub" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyjulia&layout=compact&langs_count=7&theme=dracula&hide_border=true&title_color=D5BDAF" alt="Linguagens mais usadas" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codebyjulia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=D5BDAF&icon_color=D5BDAF&text_color=D5BDAF&ring=D5BDAF&fire=D5BDAF" alt="Estatísticas do GitHub" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyjulia&layout=compact&langs_count=7&theme=dracula&hide_border=true&title_color=D5BDAF&text_color=D5BDAF" alt="Linguagens mais usadas" />
   </a>
 </div>
 
@@ -55,5 +55,5 @@ Sou apaixonada por tecnologia, aprimorando meus conhecimentos através da **Univ
 
 <div align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=codebyjulia&color=D5BDAF&style=flat-square&label=VISITAS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=codebyjulia&color=D5BDAF&style=flat-square&label=VISITAS&logoColor=D5BDAF" alt="Profile Views" />
 </div>
