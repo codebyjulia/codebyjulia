@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,333333&height=200&section=header" width="100%" alt="Header Animada" />
+![Header do GitHub](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1A2B3C,00e6e6,0099ff&height=200&section=header)
 </div>
 
 <div align="center">
