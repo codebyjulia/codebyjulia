@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=D5BDAF,EAE0D5,D5BDAF&height=200&section=header" width="100%" alt="Header do GitHub em Bege" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=D5BDAF,EAE0D5,D5BDAFF&height=200&section=header" width="100%" alt="Header do GitHub em Bege" />
 </div>
 
 <div align="center">
