@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4E3629,50:C1A87D,100:E6D2B5&height=220&section=header&text=Ju%CC%81lia%20Raissa&fontSize=38&fontColor=FFF8F0&fontAlignY=38&desc=Front-end%20Developer&descAlignY=58&descColor=F5E9D3&animation=fadeIn" width="100%" alt="Header" />
 
 <a href="https://juliaraissadev.vercel.app" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=C1A87D&center=true&vCenter=true&width=520&lines=Bem-vindo(a)%2C+me+chamo+J%C3%BAlia;Sou+dev+Front-end" alt="Typing SVG" />
+
 </a>
 
 <br><br>
