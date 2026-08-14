@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=C1A87D,E6D2B5,C1A87D&height=200&section=header" width="100%" alt="Header do GitHub em Bege" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=C1A87D,E6D2B5,C1A87D&height=200&section=header&v=1" width="100%" alt="Header do GitHub em Bege" />
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@ Sou apaixonada por tecnologia, aprimorando meus conhecimentos através da **Univ
 - 🔭 Atualmente desenvolvendo projetos e documentando tudo no meu [Portfólio](https://juliaraissadev.vercel.app).
 - 🌱 Focada em criar soluções eficientes e interfaces intuitivas.
 - 🎟️ Presença garantida na imersão e networking de eventos da área, como o **CSBC 2025**, **Campus Weekend Aracaju** e **Circuito Tecnológico**.
-- ⚡ **Curiosidade:** Nos momentos de lazer, gosto de montar e pesquisar peças de hardware, além de mergulhar em simuladores como *The Sims 4* e *inZOI*.
+
 
 <br>
 
