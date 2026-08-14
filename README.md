@@ -8,9 +8,9 @@
 
 <br><br>
 
-<img src="https://img.icons8.com/pixel-art/48/laptop.png" width="34" alt="notebook" />&nbsp;&nbsp;
-<img src="https://img.icons8.com/pixel-art/48/coffee-to-go.png" width="34" alt="café" />&nbsp;&nbsp;
-<img src="https://img.icons8.com/pixel-art/48/opened-book.png" width="34" alt="livro" />
+<img src="https://unpkg.com/pixelarticons@latest/svg/notebook.svg" width="30" alt="notebook" />&nbsp;&nbsp;&nbsp;
+<img src="https://unpkg.com/pixelarticons@latest/svg/coffee.svg" width="30" alt="café" />&nbsp;&nbsp;&nbsp;
+<img src="https://unpkg.com/pixelarticons@latest/svg/book-open.svg" width="30" alt="livro" />
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header" width="100%"/>
 
-### <img src="https://img.icons8.com/pixel-art/48/coffee-to-go.png" width="22"/> Sobre mim
+### <img src="https://unpkg.com/pixelarticons@latest/svg/coffee.svg" width="20"/> Sobre mim
 
 ```yaml
 nome: Júlia Raissa
@@ -41,7 +41,7 @@ Sou apaixonada por transformar ideias em interfaces bonitas e intuitivas. Passei
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header" width="100%"/>
 </div>
 
-### <img src="https://img.icons8.com/pixel-art/48/laptop.png" width="22"/> Tecnologias & Ferramentas
+### <img src="https://unpkg.com/pixelarticons@latest/svg/notebook.svg" width="20"/> Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -51,7 +51,7 @@ Sou apaixonada por transformar ideias em interfaces bonitas e intuitivas. Passei
 
 <br>
 
-### <img src="https://img.icons8.com/pixel-art/48/opened-book.png" width="22"/> Estatísticas
+### <img src="https://unpkg.com/pixelarticons@latest/svg/book-open.svg" width="20"/> Estatísticas
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=codebyjulia&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=4E3629&icon_color=C1A87D&text_color=6B5844&bg_color=00000000&ring_color=C1A87D" alt="Estatísticas do GitHub" />
