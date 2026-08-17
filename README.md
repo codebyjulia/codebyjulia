@@ -44,11 +44,6 @@
 <img src="https://api.iconify.design/pixelarticons/book-open.svg?color=%23C1A87D" width="20"/> Estatísticas
 <div align="center"> <img src="https://streak-stats.demolab.com/?user=codebyjulia&hide_border=true&background=00000000&ring=C1A87D&fire=4E3629&currStreakLabel=4E3629&sideLabels=6B5844&currStreakNum=4E3629&sideNums=4E3629&dates=B49A73" alt="Streak stats" /> </div> <br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header" width="100%"/> </div>
 
-<br>
-
-<img src="https://api.iconify.design/pixelarticons/book-open.svg?color=%23C1A87D" width="20"/> Estatísticas
-<div align="center"> <img src="https://streak-stats.demolab.com/?user=codebyjulia&hide_border=true&background=00000000&ring=C1A87D&fire=4E3629&currStreakLabel=4E3629&sideLabels=6B5844&currStreakNum=4E3629&sideNums=4E3629&dates=B49A73" alt="Streak stats" /> </div> <br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header" width="100%"/> </div>
-
 ### 📫 Vamos nos conectar?
 
 <div align="center">
